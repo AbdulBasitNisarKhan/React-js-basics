@@ -1,0 +1,12 @@
+How to Run React Project 
+1. First create folder 
+2. open terminal and write this command npm create vite@latest
+3. write Project name 
+4. write packaje name 
+5. Select library React
+6. install npm 
+7 npm rum dev 
+
+Understand React Flow and structure
+
+Note: React control your UI through hooks 
